@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LessonVk/static/css/main.602a41b2.css",
+    "main.js": "/LessonVk/static/js/main.9b91599a.js",
+    "static/js/787.60bf9af3.chunk.js": "/LessonVk/static/js/787.60bf9af3.chunk.js",
+    "static/media/Inter-Bold.ttf": "/LessonVk/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-SemiBold.ttf": "/LessonVk/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/Inter-Medium.ttf": "/LessonVk/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/Inter-Regular.ttf": "/LessonVk/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/myPhoto.jpg": "/LessonVk/static/media/myPhoto.9661e29bf5bad6b5a87f.jpg",
+    "static/media/ant-design_instagram-outlined.svg": "/LessonVk/static/media/ant-design_instagram-outlined.cf9fdf92887d23af822700fd4e94cf09.svg",
+    "static/media/mail.svg": "/LessonVk/static/media/mail.3412247c9a379e1cb783e457591caf3a.svg",
+    "static/media/user.svg": "/LessonVk/static/media/user.babc49fdeadc9f009106546e17133321.svg",
+    "static/media/ant-design_vk-outlined.svg": "/LessonVk/static/media/ant-design_vk-outlined.ccc86b560b99884ec5421d592cf53a8c.svg",
+    "static/media/password.svg": "/LessonVk/static/media/password.1fc07dc05871067bc40fdd7fefaa6de7.svg",
+    "index.html": "/LessonVk/index.html",
+    "static/media/ant-design_fb-outlined.svg": "/LessonVk/static/media/ant-design_fb-outlined.fbea10055dfee9d99357182f1af47c14.svg",
+    "main.602a41b2.css.map": "/LessonVk/static/css/main.602a41b2.css.map",
+    "main.9b91599a.js.map": "/LessonVk/static/js/main.9b91599a.js.map",
+    "787.60bf9af3.chunk.js.map": "/LessonVk/static/js/787.60bf9af3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.602a41b2.css",
+    "static/js/main.9b91599a.js"
+  ]
+}
